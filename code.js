@@ -5,6 +5,6 @@ window.addEventListener('load', function () {
 		window.location.href = "https://en.wikipedia.org/wiki/The_Holocaust";
 		});
 	style.addEventListener('click', function (){
-		document.body.style.backgroundColor = 'yellow');
+		document.body.style.backgroundColor = 'yellow';
 	});
 });
